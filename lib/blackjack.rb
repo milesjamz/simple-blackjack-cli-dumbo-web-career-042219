@@ -39,8 +39,8 @@ end
 
 def hit?(total)
   # code hit? here
-#prompt_user
-#get_user_input
+prompt_user
+get_user_input
 if answer == "h"
   #deal_card
 end
