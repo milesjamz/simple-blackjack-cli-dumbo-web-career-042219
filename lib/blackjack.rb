@@ -30,9 +30,8 @@ end
 
 def initial_round
   # code #initial_round here
-  total = 
-deal_card
-deal_card
+cardone = deal_card
+cardtwo = deal_card
 display_card_total
 puts "#{total}"
 return #{total}
