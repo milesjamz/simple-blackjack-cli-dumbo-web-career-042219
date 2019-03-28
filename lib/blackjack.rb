@@ -42,7 +42,7 @@ def hit?(total)
 prompt_user
 answer = get_user_input
 if answer == "h"
-  #deal_card
+  total += deal_card
 end
 end
 
