@@ -34,7 +34,6 @@ cardone = deal_card
 cardtwo = deal_card
 total = cardone + cardtwo
 display_card_total(total)
-puts "#{total}"
 return #{total}
 end
 
