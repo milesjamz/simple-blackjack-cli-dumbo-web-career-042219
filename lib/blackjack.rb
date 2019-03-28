@@ -63,7 +63,7 @@ end
 def runner
   # code runner here
   welcome
-  initial_round
+  total = initial_round
   hit?
   when  total > 21
   end
