@@ -65,6 +65,7 @@ def runner
   welcome
   initial_round
   hit?
-  
+  when  total > 21
+  end
 end
     
